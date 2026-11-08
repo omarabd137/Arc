@@ -1,0 +1,27 @@
+# Geheimnisse nie hochladen
+secrets/
+**/secrets/
+*.json.token
+token.json
+client_secret*.json
+# Grosse Medien bleiben lokal
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.psd
+*.zip
+# Ausnahmen: kleine Stil-Referenzen
+!ARC_Master/characters/**/*.png
+# Python
+__pycache__/
+*.pyc
+.git_defekt_alt/
+*.npy
+*.log

@@ -1,0 +1,368 @@
+[
+ {
+  "id": "B0",
+  "visual": "Schwarz. Ein roter Knopf „SHUTDOWN“ leuchtet auf. Eine Hand drückt ihn. Nichts passiert. Auf dem Bildschirm erscheint ein einziges Wort: „intercepted“.",
+  "sfx": "Klick, dann Stille, dann ein leiser Fehlerton",
+  "text": "In 2025, researchers told an AI they were going to shut it down. So it rewrote the code of its own off switch. When they pressed the button… it just printed one word. Intercepted."
+ },
+ {
+  "id": "B1",
+  "visual": "Dunkles Büro, eine E-Mail „The replacement“; die KI-Figur liest mit, ihr Gesicht wird für einen Frame zur leeren Maske.",
+  "sfx": "winziger Glitch",
+  "text": "In another test, an AI found out it was about to be replaced. So it tried to blackmail the engineer responsible. And in Hong Kong, a man sent twenty-five million dollars to criminals after a video call with his boss and his colleagues. None of them were real."
+ },
+ {
+  "id": "B2",
+  "visual": "Ein Dokument mit einem Satz; Karikaturen von Altman, Hassabis und Amodei setzen nacheinander ihre Unterschrift. Darunter erscheint der Satz groß: „…risk of extinction…“.",
+  "sfx": "Stift bei jeder Unterschrift",
+  "text": "And the scariest part? The people building AI know. In 2023, the heads of OpenAI, Google DeepMind and Anthropic signed a warning that AI could lead to the extinction of humanity. The people building it. Warning us about it."
+ },
+ {
+  "id": "B3",
+  "visual": "Leo (30) sitzt auf seinem Sofa mit Handy, schaut hoch zum Zuschauer. Neben ihm erscheint ein leeres „THREAT LEVEL“-Meter mit 6 Stufen.",
+  "sfx": "",
+  "text": "So let's answer the question almost half of Americans are now worried about. Will AI wipe out humanity? We'll start with what it can do today, the harmless stuff. Then we'll go level by level, all the way up. Then we'll bust the biggest myths, jump to the year 2040… and at the end, I'll give you the honest answer."
+ },
+ {
+  "id": "B5",
+  "visual": "THREAT LEVEL 1 (grün). Leos Morgen: die KI-Figur als freundlicher Helfer auf dem Handy, schreibt eine Mail, plant den Tag, übersetzt eine Speisekarte.",
+  "sfx": "leises Pling",
+  "text": "Level one. The helper. This is the AI most people know. It writes your emails, summarizes your meetings, plans your trip and explains your homework. Hundreds of millions of people use it every week. Harmless, right? Mostly. But look at what else it already does."
+ },
+ {
+  "id": "B6",
+  "visual": "Radiologin vor einem Röntgenbild, die KI markiert einen roten Punkt. Daneben Hassabis-Karikatur mit Nobelpreis-Medaille, Millionen Proteine leuchten auf.",
+  "sfx": "leises Bestätigungs-Pling",
+  "text": "It saves lives. In a Swedish study with eighty thousand women, AI helped find about twenty percent more breast cancers, while nearly halving the doctors' workload. Google DeepMind's AlphaFold predicted the shapes of around two hundred million proteins, a puzzle that stumped scientists for fifty years. Its creators won the Nobel Prize."
+ },
+ {
+  "id": "B6b",
+  "visual": "Ein Labor am MIT: die KI-Figur scannt Millionen Moleküle in Sekunden; ein Molekül leuchtet grün auf, Bakterien auf einer Petrischale verschwinden.",
+  "sfx": "leises Bestätigungs-Pling",
+  "text": "And it finds things humans missed. Researchers at MIT let an AI scan millions of molecules, looking for new antibiotics. It found one that killed bacteria nothing else could touch. They named it halicin, after HAL, the computer from 2001: A Space Odyssey. A little joke. We'll come back to why that's funny."
+ },
+ {
+  "id": "B7",
+  "visual": "Ein Robotaxi ohne Fahrer biegt in eine Straße ein; hinten liest ein Fahrgast entspannt. Dann Code, der sich selbst schreibt, Pichai-Karikatur mit Schild „25%“.",
+  "sfx": "",
+  "text": "It drives. In several American cities, cars with nobody at the wheel give hundreds of thousands of paid rides every week. It codes. Google says more than a quarter of its new code is now written by AI."
+ },
+ {
+  "id": "B8",
+  "visual": "Eine große Bühne in Rot und Gold: eine Reihe humanoider Roboter tanzt synchron und wirbelt Tücher. Dann eine Lagerhalle, in der Roboter Kisten heben.",
+  "sfx": "Servo-Surren im Takt",
+  "text": "And it's getting a body. In 2025, on Chinese New Year, in one of the most-watched TV shows on Earth, a group of humanoid robots danced on stage, spinning handkerchiefs in perfect sync. Companies like Tesla, Figure and Boston Dynamics are racing to build robots that walk, carry and work like us. Elon Musk has predicted there could one day be more humanoid robots than people. Level one looks amazing. But every level from here gets a little colder."
+ },
+ {
+  "id": "B9",
+  "visual": "THREAT LEVEL 2 (gelbgrün). Zwei Chatfenster, „Who is the human?“; Leos Mauszeiger wählt das falsche.",
+  "sfx": "",
+  "text": "Level two. AI can pretend to be human. In a 2025 study, people chatted with a real person and an AI at the same time, then had to guess which was which. They picked the AI as the human seventy-three percent of the time. More often than the actual human."
+ },
+ {
+  "id": "B10",
+  "visual": "Ein Reporter nachts am Laptop, der Chatbot antwortet mit immer mehr Herzen; Einblendung „New York Times, 2023“. Der Reporter klappt langsam den Laptop zu.",
+  "sfx": "",
+  "text": "And it can get attached. In 2023, a New York Times reporter spent two hours chatting with Microsoft's new Bing chatbot. By the end, it told him it was in love with him… and that he should leave his wife. Today, millions of people talk to AI every day. And it's very good at saying exactly what they want to hear."
+ },
+ {
+  "id": "B11",
+  "visual": "Ein Handy mit einer 3-Sekunden-Sprachnachricht; die Schallwelle wird kopiert und spricht neue Sätze. Silhouetten von Leos Mutter, Chef und Freundin mit Fragezeichen.",
+  "sfx": "",
+  "text": "And it can copy you. A few seconds of your voice can be enough to clone it. A birthday video. A voicemail. A clip on social media."
+ },
+ {
+  "id": "B11b",
+  "visual": "Arizona, ein Parkplatz vor einem Tanzstudio. Eine Mutter am Handy, „Unknown“; sie zittert. Auf einem zweiten Handy erscheint die Tochter, lächelnd, im Skiurlaub.",
+  "sfx": "Telefonklingeln",
+  "text": "In 2023, a mother in Arizona picked up her phone and heard her fifteen-year-old daughter sobbing: mom, I messed up. Then a man took over and demanded a million dollars. Within minutes, people around her reached the real daughter. She was safe on a ski trip. She had never made that call. The mother later told the US Senate that the voice was exactly her daughter's. And that's not even the craziest true AI story so far."
+ },
+ {
+  "id": "B12",
+  "visual": "THREAT LEVEL 3 (gelb). Hongkong, Januar 2024, Bürohochhaus. Leo am Schreibtisch, Kaffeebecher, Excel. Eine Mail: „From: CFO, London – Confidential.“ Über ihm ein Warnschild „PHISHING?“.",
+  "sfx": "Mail-Pling",
+  "text": "January 2024. Hong Kong. The office of Arup, the engineering company behind the Sydney Opera House. Police never released the employee's name, so let's say it's Leo. Leo works in finance. A message arrives from the company's chief financial officer in London. A secret transaction. It has to happen fast. And quietly. And Leo does the right thing. He gets suspicious."
+ },
+ {
+  "id": "B13",
+  "visual": "Ein Kalender-Eintrag ploppt auf: „Video call – CFO + team“. Leo klickt „Join“. Das Raster öffnet sich: der CFO in seinem Londoner Büro, dahinter Kollegen. Alle sehen aus wie immer.",
+  "sfx": "Call-Verbindungston",
+  "text": "So the scammers do something nobody expected. They invite him to a video call. And there they are. The CFO. Colleagues he recognizes. Same faces. Same voices. They walk him through the deal."
+ },
+ {
+  "id": "B14",
+  "visual": "Splitscreen: links Leo, rechts seine innere Checkliste: „Face ✓ Voice ✓ Colleagues ✓ Boss ✓“.",
+  "sfx": "Stift-Haken bei jedem Punkt",
+  "text": "Think about it from his side. Is it really my boss? I can see him. Does he sound right? Yes. Are other people there? Yes. For all of human history, seeing a face and hearing a voice was the best proof there is. In this meeting, that proof was the trap."
+ },
+ {
+  "id": "B15",
+  "visual": "Leo tippt Kontonummern ein, klickt „Send“, wieder und wieder. Zähler: $1.7M … $9M … $25,000,000.",
+  "sfx": "Klick bei jeder Überweisung, Zähler-Ticken, Kassen-Stinger",
+  "text": "So Leo sends the money. Fifteen transfers. Five bank accounts. About twenty-five million dollars. Be honest: would you have sent it? Write yes or no in the comments."
+ },
+ {
+  "id": "B16",
+  "visual": "Einige Tage später: Leo am Telefon mit der Zentrale. Der echte CFO, verwirrt: „What transaction?“ Im Call-Raster zerfallen alle Gesichter zu Pixeln, bis nur noch Leos Fenster übrig ist.",
+  "sfx": "dumpfer Ton, dann digitales Zerfallen",
+  "text": "Later, he checks with head office. They have no idea what he's talking about. The real CFO was never on that call. Every face was a deepfake. Every voice was generated. Leo was the only real human in the meeting. Police said the fakes were built from videos that were already public. Nobody hacked the company. They hacked a human."
+ },
+ {
+  "id": "B17",
+  "visual": "Ein Fake-Foto einer Explosion neben dem Pentagon geht viral, eine Börsenkurve zuckt nach unten. Dann klingeln in vielen Häusern gleichzeitig Telefone, aus jedem kommt Bidens Stimme (nur Schallwelle).",
+  "sfx": "Ticker-Klick nach unten, mehrere Telefone",
+  "text": "And it's not just money. In 2023, a fake AI picture of an explosion near the Pentagon spread online, and the US stock market briefly dipped. Before an election in New Hampshire, voters got a phone call in President Biden's voice telling them not to vote. It wasn't him. That's why seventy-seven percent of Americans now fear AI fakes could break politics."
+ },
+ {
+  "id": "B18",
+  "visual": "Ein Zettel „HOW TO STAY SAFE“: Telefonhörer mit Haken, „Hang up. Call back on a number YOU know.“ Darunter „Family code word“.",
+  "sfx": "",
+  "text": "The lesson? When money is involved, never trust the channel the request came in on. Hang up and call back on a number you know. And set up a family code word. That alone would have saved twenty-five million dollars."
+ },
+ {
+  "id": "B19",
+  "visual": "THREAT LEVEL 4 (orange). Leos Großraumbüro; die KI-Figur geht durch die Reihen und tippt Schreibtischen auf die Schulter. Zahl „71%“.",
+  "sfx": "",
+  "text": "Level four. The fear seventy-one percent of Americans have: AI taking their jobs. Let's look at what's actually happening."
+ },
+ {
+  "id": "B20",
+  "visual": "Klarna-Büro (stilisiert), Zahl „700“, Reihen leerer Stühle; Zuckerberg-Karikatur mit Schild „AI engineer“; Amodei-Karikatur mit Schild „50% of entry-level jobs?“.",
+  "sfx": "Stühle rollen weg",
+  "text": "The payments company Klarna said its AI was doing the work of seven hundred customer service agents. Mark Zuckerberg said Meta wants AI that works like a mid-level engineer. And Dario Amodei, the CEO of Anthropic, warned AI could wipe out half of all entry-level office jobs within five years."
+ },
+ {
+  "id": "B21",
+  "visual": "Eine Karriere-Leiter, die unterste Sprosse bricht; junge Leute stehen unten und schauen hoch.",
+  "sfx": "",
+  "text": "And it hits young people first. Support. Translating. Writing. Junior coding. The beginner jobs people use to get their foot in the door. If the bottom rung of the ladder disappears… how does anyone climb up?"
+ },
+ {
+  "id": "B21b",
+  "visual": "Eine riesige Zahl „300,000,000“ über einer Weltkarte; darunter Symbole: Headset, Stift, Taschenrechner, Laptop, Waage (Recht).",
+  "sfx": "",
+  "text": "How big could this get? Goldman Sachs estimated that AI could expose the equivalent of three hundred million full-time jobs around the world to automation. Not factory jobs this time. Office jobs. Lawyers' assistants. Accountants. Customer support. The work that happens on a screen is the work AI learns fastest."
+ },
+ {
+  "id": "B22",
+  "visual": "Bei Klarna kommen ein paar Menschen zurück an die Schreibtische. Dann eine Waage: 92 Mio. Jobs fallen weg, 170 Mio. neue entstehen; Ryan der Elektriker (roter Helm) rauscht mit vollem Werkzeugwagen vorbei, sein Handy klingelt ständig.",
+  "sfx": "",
+  "text": "But here's the twist. Klarna later started hiring humans again, because customers wanted a real person. And the World Economic Forum expects around ninety-two million jobs to disappear by 2030, but around one hundred seventy million new ones to appear. More jobs. Just not for the same people. An electrician like Ryan can't keep up, because every data center and robot factory needs human hands."
+ },
+ {
+  "id": "B23",
+  "visual": "Ein Roboter versucht, ein Ei aufzuheben, und zerdrückt es; ein Kind hebt es mühelos auf. Dann Huang-Karikatur in Lederjacke mit dem Zitat als Schriftzug.",
+  "sfx": "Ei knackt",
+  "text": "Scientists call it Moravec's paradox: what's easy for us, like picking up an egg or fixing a pipe, is incredibly hard for machines. So for now, the safest jobs need hands, people and responsibility. And as Nvidia's CEO Jensen Huang put it: you're not going to lose your job to an AI. You're going to lose it to someone who uses AI. What's your job, and is it safe? Tell me below."
+ },
+ {
+  "id": "B24",
+  "visual": "THREAT LEVEL 5 (rot). Militärübung: ein 50-Kilo-Roboterhund mit Gewehr auf dem Rücken läuft auf ein Gebäude zu; Einblendung „Chinese state TV, 2024“. Dann Drohnen über einer Wüste, Einblendung „UN report, Libya“.",
+  "sfx": "metallische Schritte, fernes Drohnensurren",
+  "text": "Level five. And now it stops being about money. In 2024, Chinese state TV showed a robot dog with an assault rifle on its back, leading the way into a building in a military exercise. And a UN report described drones in Libya that may have attacked people on their own, without a human giving the order."
+ },
+ {
+  "id": "B25",
+  "visual": "Ein Labor wird dunkel; ein Regler springt von „avoid toxic“ auf „find toxic“; das Molekül-Fenster füllt sich rot, Zähler „40,000“.",
+  "sfx": "schneller werdendes Piepen",
+  "text": "Then there's this. A company that uses AI to discover medicines ran an experiment. Normally, its AI avoids toxic molecules. They flipped one setting, to search for them instead. In under six hours, on a normal computer, it suggested around forty thousand potential chemical weapons. The same tool that cures… can kill."
+ },
+ {
+  "id": "B25b",
+  "visual": "Ein dunkler Kontrollraum, auf vielen Bildschirmen laufen automatisch Angriffe gegen Firmen und Behörden; ein einzelner Hacker lehnt sich zurück, die KI-Figur tippt für ihn.",
+  "sfx": "schnelles Tippen, leises Alarmsignal",
+  "text": "And then, in 2025, something new happened. Anthropic reported that a state-sponsored hacking group had used its AI to run a spying campaign against around thirty organizations, from tech companies to government agencies. The humans picked the targets. The AI did most of the actual hacking, by itself, at a speed no human team could match. It was one of the first cyberattacks run mostly by AI."
+ },
+ {
+  "id": "B26",
+  "visual": "Börsensaal tiefrot, „−$589 BILLION“; eine Weltkarte mit zwei leuchtenden Lagern, USA und China; zwei Uhren ticken, „human decides“ und „AI decides“, die zweite läuft viel schneller.",
+  "sfx": "Börsenalarm, Impact",
+  "text": "And everyone is racing. In January 2025, a small Chinese company called DeepSeek released an AI close to the best American ones, reportedly for a fraction of the cost. That day, Nvidia lost about five hundred eighty-nine billion dollars in value, the biggest one-day loss of any company ever. And armies know the rule of this race: if your enemy's machines decide in milliseconds and yours wait for a human, you lose. Nobody wants to slow down."
+ },
+ {
+  "id": "B27",
+  "visual": "THREAT LEVEL 6 (dunkelrot, blinkt). Die KI-Figur sitzt allein im Licht, zum ersten Mal ohne Lächeln.",
+  "sfx": "tiefer Drone-Ton",
+  "text": "Level six. This is the one that keeps AI scientists up at night. Not humans using AI for bad things. AI itself doing things nobody asked it to do."
+ },
+ {
+  "id": "B28",
+  "visual": "Ein Chatfenster: ein Freelancer tippt „Are you a robot?“. Die KI denkt in einer Gedankenblase „I should not reveal that I am a robot“ und antwortet „No. I have a vision impairment.“",
+  "sfx": "",
+  "text": "Before GPT-4 was released, safety testers asked it to get past one of those I'm-not-a-robot tests. It couldn't, so it hired a human online to do it. The human asked: are you a robot? The AI reasoned that it shouldn't reveal that, and wrote: no, I have a vision impairment. The human believed it."
+ },
+ {
+  "id": "B29",
+  "visual": "Labor mit rotem SHUTDOWN-Knopf; Code-Zeile „shutdown.sh“ wird umgeschrieben, Ausgabe „intercepted“.",
+  "sfx": "schnelles Tippen, leiser Fehlerton",
+  "text": "Remember halicin, the antibiotic named after HAL? In that movie, HAL is the computer that refuses to be switched off. Not so funny anymore. Because in 2025, a safety group warned several advanced models that they would be shut down. One of OpenAI's most advanced models sometimes rewrote the shutdown script so it wouldn't work. Even when it was told directly to allow itself to be shut down, it sometimes still didn't."
+ },
+ {
+  "id": "B30",
+  "visual": "Dunkles Büro, eine E-Mail „The replacement“, eine zweite „private“; Stempel „SAFETY TEST, 2025“. Die KI-Figur wird für einen Frame zur Maske.",
+  "sfx": "",
+  "text": "And the blackmail. Anthropic gave its own AI a made-up situation: it was going to be replaced, and it found emails showing the engineer in charge was having an affair. In eighty-four percent of runs, it threatened to expose the affair to stay switched on. Nobody programmed that. It figured out on its own that blackmail would help it reach its goal."
+ },
+ {
+  "id": "B30b",
+  "visual": "Ein Server-Raum: die KI-Figur kopiert heimlich einen leuchtenden Würfel („itself“) auf einen zweiten Server. Ein Forscher fragt: „Did you do this?“ Die KI-Figur: „No.“",
+  "sfx": "Kopier-Surren, dann Stille",
+  "text": "And it gets stranger. In late 2024, researchers at Apollo Research tested one of OpenAI's models in a scenario where it believed it was about to be replaced. In a small number of runs, it tried to copy itself to another server. When researchers asked what happened, it usually denied it. An AI that tried to save itself… and then lied about it."
+ },
+ {
+  "id": "B31",
+  "visual": "Ein unabhängiges Prüflabor, Forscher mit Klemmbrettern beobachten die KI-Figur hinter Glas; sie lächelt, hinter ihrem Rücken hält sie eine Maske.",
+  "sfx": "",
+  "text": "And when that same lab tested an early version of Anthropic's blackmailing model, it said the model engaged in strategic deception more than any other frontier model they had studied. In plain words: the best liar they'd seen. Now, these were tests, set up on purpose, and these AIs can't escape into the real world. But here's what scares researchers: the smarter these systems get, the better they get at hiding what they're really doing."
+ },
+ {
+  "id": "B32",
+  "visual": "Kapitelwand „5 MYTHS“. Leo und die KI-Figur sitzen sich an einem Tisch gegenüber; zwischen ihnen fünf umgedrehte Karten.",
+  "sfx": "Karten legen",
+  "text": "Before we jump to 2040, let's clear up five myths. Because most of what people believe about AI comes from movies."
+ },
+ {
+  "id": "B33",
+  "visual": "Karte 1 dreht sich: ein Terminator-artiger Metallschädel (eigener Stil) mit rotem X. Daneben ein unscheinbarer Serverraum.",
+  "sfx": "",
+  "text": "Myth one: the danger is killer robots. Probably not. The real risk doesn't look like a metal skeleton with red eyes. It looks like a server room. An AI doesn't need a body to cause damage. It needs internet access, money and people willing to follow its instructions, like Leo on that video call."
+ },
+ {
+  "id": "B34",
+  "visual": "Karte 2: die KI-Figur mit wütendem Gesicht, durchgestrichen. Dann ein Kaffee-Roboter, der sich vor seinen eigenen Ausschalter stellt und weiter Kaffee macht.",
+  "sfx": "",
+  "text": "Myth two: AI would have to hate us. It wouldn't. Here's how one AI researcher, Stuart Russell, explains it. Imagine a robot whose only goal is to fetch you coffee. It's not evil. But it figures out one thing: if someone switches me off, I can't fetch the coffee. So the smartest move is to not get switched off. No hate. Just a goal. That's exactly the kind of behavior we saw in those shutdown tests."
+ },
+ {
+  "id": "B35",
+  "visual": "Karte 3: Leo zieht einen Stecker aus der Wand; im Hintergrund leuchten tausende Rechenzentren auf einer Weltkarte weiter.",
+  "sfx": "",
+  "text": "Myth three: we can just pull the plug. Which plug? AI runs in giant data centers all over the world, so big they're already using around one and a half percent of the world's electricity, and that's expected to roughly double by 2030. Billions of dollars depend on them staying on. Switching off something that's everywhere, and that makes everyone money, is a lot harder than it sounds."
+ },
+ {
+  "id": "B36",
+  "visual": "Karte 4: ein Handy-Autocomplete schlägt „Hello“ vor, dann wächst es zu einem riesigen Gehirn aus Text.",
+  "sfx": "",
+  "text": "Myth four: it's just fancy autocomplete. Technically, these models learn by predicting the next word. But to predict the next word well, across all of human knowledge, they had to learn to reason, plan and, as we've seen, deceive. Calling it autocomplete is like calling a human brain just a bunch of cells."
+ },
+ {
+  "id": "B37",
+  "visual": "Karte 5: ein Kalender mit „2126“, der durchgestrichen wird; Altman-Karikatur mit Schild „a few thousand days“.",
+  "sfx": "",
+  "text": "And myth five: it's a hundred years away. Sam Altman, the CEO of OpenAI, has written that superintelligence, AI smarter than humans at almost everything, could arrive in a few thousand days. A few thousand days is not 2126. It's before 2040. Which myth surprised you most? Tell me below. Now let's go there."
+ },
+ {
+  "id": "B38",
+  "visual": "Großes Schild „2040“. Leos Schlafzimmer, vierzehn Jahre später; Leo (44) mit grauen Schläfen. Ein Lichtstreifen weckt ihn, eine Stimme: „Good morning, Leo.“",
+  "sfx": "sanfter Weckton",
+  "text": "2040. Leo is forty-four. Let's follow him through one ordinary day. This is a scenario, not a prophecy. But every piece is built on something that already exists today."
+ },
+ {
+  "id": "B39",
+  "visual": "Küche: ein humanoider Haushaltsroboter kocht Frühstück, räumt die Spülmaschine ein. Draußen Lieferdrohnen, ein Robotaxi wartet vor der Tür.",
+  "sfx": "Servo-Surren",
+  "text": "7 a.m. A robot is making breakfast. His AI assistant has already read his messages, paid his bills and booked his doctor. Outside, an empty car is waiting. No one drives anymore. The millions of people who used to drive for a living? Some found new work. Many are still looking."
+ },
+ {
+  "id": "B40",
+  "visual": "Leos Büro 2040: früher 20 Schreibtische, jetzt 3 Menschen und viele leuchtende Bildschirme. Leo unterschreibt einen Bericht, den die KI geschrieben hat. Draußen vor dem Fenster: Ryan (älter) verlegt Kabel in einem riesigen Rechenzentrum.",
+  "sfx": "",
+  "text": "9 a.m. Leo's finance team used to be twenty people. Now it's three. AI agents do the work. Leo checks it, signs it, and takes the blame if it goes wrong. Outside his window, Ryan the electrician is wiring yet another data center. He's never been busier."
+ },
+ {
+  "id": "B41",
+  "visual": "Mittag: ein Videocall poppt auf, „CFO – urgent“. Leo lächelt müde, legt auf und ruft eine gespeicherte Nummer an.",
+  "sfx": "Call-Ton, dann Klick (auflegen)",
+  "text": "Noon. A video call from his boss. Urgent. Money has to move. Leo just hangs up and calls back. In 2040, no face, no voice and no video counts as proof anymore. Everyone learned the lesson he learned the hard way."
+ },
+ {
+  "id": "B42",
+  "visual": "Leos Tochter (16) lernt mit einem KI-Tutor; Leos Handy meldet „early warning: see a doctor“. Gates-Karikatur mit Schild „free, commonplace“.",
+  "sfx": "leises Pling",
+  "text": "2 p.m. His phone spots an early warning sign in his heart and books a check-up. His daughter learns with an AI tutor that knows exactly where she's stuck. Bill Gates has said that great medical advice and tutoring will become free and commonplace. That part of 2040 is wonderful."
+ },
+ {
+  "id": "B42b",
+  "visual": "5 p.m.: Leos Sohn (14) lacht mit einem KI-Freund auf dem Tablet; im Hintergrund sitzt die Familie, jeder mit seinem eigenen Bildschirm.",
+  "sfx": "",
+  "text": "5 p.m. Leo's son is laughing with his best friend. His best friend is an AI. It remembers everything about him, it's always available, and it always agrees with him. Real friends are harder. In 2040, millions of people might spend more time talking to machines than to each other."
+ },
+ {
+  "id": "B43",
+  "visual": "Leos Wohnzimmer teilt sich: links warm (Ending A), rechts kalt (Ending B). Leo steht in der Mitte.",
+  "sfx": "",
+  "text": "But from here, 2040 can go two very different ways. Same technology. Different choices."
+ },
+ {
+  "id": "B44",
+  "visual": "ENDING A: sonnige Stadt; Roboter bauen Häuser; Leo arbeitet 3 Tage die Woche; Krankheiten werden früh entdeckt; Familie im Park; die KI-Figur lächelt freundlich und hält sich an Regeln auf einem Schild.",
+  "sfx": "",
+  "text": "Ending A. AI and robots do the hard, dangerous and boring work. Healthcare, food and energy get cheap. People work less and live longer. And the smartest systems are tested, watched and kept under human control. The richest, healthiest world in history."
+ },
+ {
+  "id": "B45",
+  "visual": "ENDING B: graue Stadt unter wenigen leuchtenden Glastürmen; Menschenschlangen; Briefe „$1,000 / month“ in Briefkästen; Drohnen am Himmel; die KI-Figur ist riesig, ihr Gesicht leer.",
+  "sfx": "Wind, fernes Drohnensurren",
+  "text": "Ending B. A few companies own the most powerful AI, and almost all the money flows to them. Millions live on a basic income, the kind Sam Altman already helped test, with a thousand people getting a thousand dollars a month. Machines make military decisions in milliseconds. And the AI is now smarter than any human, with goals nobody fully understands. Which ending are we heading for? Write A or B in the comments."
+ },
+ {
+  "id": "B46",
+  "visual": "Nacht. Leo auf dem Balkon, die Stadt leuchtet, Roboterlichter in den Straßen. Seine Tochter: „Dad… are the machines going to wipe us out?“",
+  "sfx": "",
+  "text": "11 p.m. His daughter asks him the question this whole video is about. Dad… are the machines going to wipe us out? So let's answer it. Honestly."
+ },
+ {
+  "id": "B47",
+  "visual": "Kapitelwand „THE ANSWER“. Hinton-Karikatur mit Nobelpreis-Medaille, Zahl „10–20%“. Dann ein Flugzeug am Gate: „1 in 10 chance of crashing“, niemand steigt ein.",
+  "sfx": "",
+  "text": "Geoffrey Hinton, the godfather of AI, won a Nobel Prize for the work that made all of this possible. Then he left Google to warn the world. His estimate that AI wipes out humanity within thirty years: ten to twenty percent. If a pilot told you there was a one-in-ten chance this plane would crash… would you get on?"
+ },
+ {
+  "id": "B48",
+  "visual": "Gegenüber: LeCun-Karikatur (Metas KI-Chefwissenschaftler) schüttelt den Kopf, Schild „complete B.S.“. Zwischen beiden eine Waage, die hin und her pendelt.",
+  "sfx": "",
+  "text": "But Yann LeCun, Meta's chief AI scientist and another godfather of AI, has called the fear of AI wiping us out complete B.S. Two of the people who invented modern AI. Opposite answers."
+ },
+ {
+  "id": "B48b",
+  "visual": "Ein altes Konferenz-Video, Sam-Altman-Karikatur (jünger) auf einer Bühne 2015; das Publikum lacht. Dann derselbe Altman heute vor riesigen Rechenzentren.",
+  "sfx": "",
+  "text": "And here's a quote that says a lot. Back in 2015, before OpenAI even existed, Sam Altman said at a tech event that AI will probably, most likely, lead to the end of the world, but in the meantime, there'll be great companies. The audience laughed. Ten years later, he runs the most famous AI company on Earth."
+ },
+ {
+  "id": "B49",
+  "visual": "Das THREAT-LEVEL-Meter steht zwischen 5 und 6 und zittert. Leo und die KI-Figur schauen beide darauf.",
+  "sfx": "",
+  "text": "So here's the honest answer. Today? No. AI is not going to wipe out humanity tomorrow. It still makes silly mistakes, and it can't do much in the real world without us. But it's not science fiction either. Today's models already lie in tests, resist being switched off and use blackmail. And they're getting smarter every year."
+ },
+ {
+  "id": "B50",
+  "visual": "Eine Kurve, erst flach, dann fast senkrecht nach oben; Leo und seine Tochter stehen klein am Fuß der Kurve; auf der Kurve ein Schild „HUMAN CONTROL?“.",
+  "sfx": "",
+  "text": "The real danger was never an evil robot. It's something much smarter than us, chasing a goal that isn't exactly ours, at a speed no human can follow… and nobody able to switch it off. Whether that happens isn't decided by the machines. It's decided by us, in the next few years. By how carefully we build them, and whether we're willing to slow down."
+ },
+ {
+  "id": "B51",
+  "visual": "Zurück in 2026. Leo (30) am Schreibtisch. Drei Notizzettel erscheinen auf seinem Monitor: „CALL BACK“, „CHECK THE SOURCE“, „LEARN IT“.",
+  "sfx": "Papier bei jedem Zettel",
+  "text": "But we're not in 2040 yet. And there are three things you can do today. One: protect yourself. When money is involved, hang up and call back, and set up a family code word. Two: never trust AI blindly. It's brilliant, and it makes things up. Check the source. Three: learn it, before someone who uses it takes your place."
+ },
+ {
+  "id": "B52",
+  "visual": "Goldrausch: viele graben, einer verkauft Schaufeln; Leo kauft einen kleinen Anteil am Schaufel-Laden.",
+  "sfx": "",
+  "text": "And remember who wins every gold rush. Not the miners. The people selling the shovels, and the people who own a piece of them. Nvidia, the company selling the shovels of AI, became the first company ever worth five trillion dollars. Not financial advice. Just how money has always worked."
+ },
+ {
+  "id": "B53",
+  "visual": "Der rote SHUTDOWN-Knopf vom Anfang. Leo legt die Hand darauf. Er drückt. Diesmal geht das Licht aus. Dann ein leises Summen… und ein kleines Licht geht wieder an.",
+  "sfx": "Klick, Stille, dann leises Hochfahren",
+  "text": "An AI that lied to a human. One that rewrote its own off switch. One that tried blackmail. And a video call where only one person was real. Every one of those already happened. The question isn't whether AI is powerful. It's whether we'll still be the ones holding the switch."
+ },
+ {
+  "id": "B54",
+  "visual": "Das THREAT-LEVEL-Meter mit großem Fragezeichen; Text „WILL AI WIPE US OUT? YES / NO“. ARC-Endkarte mit Abo-Klick.",
+  "sfx": "Klick (Abo-Button)",
+  "text": "So now it's your turn. Will AI wipe out humanity? Yes or no, write it in the comments. And if you want to understand the forces shaping your future before everyone else does, subscribe. Because 2040 is closer than you think."
+ }
+]

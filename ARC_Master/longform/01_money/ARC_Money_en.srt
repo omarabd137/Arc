@@ -1,0 +1,1267 @@
+1
+00:00:00,100 --> 00:00:01,815
+This is a dollar bill.
+
+2
+00:00:01,865 --> 00:00:04,545
+It costs about four cents to make.
+
+3
+00:00:04,595 --> 00:00:08,317
+And almost everything you were taught about it…
+
+4
+00:00:08,367 --> 00:00:09,040
+is wrong.
+
+5
+00:00:09,439 --> 00:00:10,369
+This is Jake.
+
+6
+00:00:10,419 --> 00:00:11,649
+And this is Ryan.
+
+7
+00:00:11,699 --> 00:00:14,060
+They grew up on the same street.
+
+8
+00:00:14,110 --> 00:00:14,964
+Same school.
+
+9
+00:00:15,014 --> 00:00:15,868
+Same grades.
+
+10
+00:00:15,918 --> 00:00:19,108
+At 25, they even start at the same company.
+
+11
+00:00:19,158 --> 00:00:19,786
+Same job.
+
+12
+00:00:19,836 --> 00:00:20,690
+Same salary.
+
+13
+00:00:21,090 --> 00:00:23,650
+Twenty years later…
+
+14
+00:00:24,050 --> 00:00:26,417
+…one of them is a millionaire.
+
+15
+00:00:26,467 --> 00:00:30,447
+The other one is still renting, and still in debt.
+
+16
+00:00:30,497 --> 00:00:31,978
+Ryan isn't smarter.
+
+17
+00:00:32,028 --> 00:00:34,073
+He didn't win the lottery.
+
+18
+00:00:34,123 --> 00:00:35,685
+He didn't get lucky.
+
+19
+00:00:35,735 --> 00:00:40,923
+He just learned something Jake never did: how money really works.
+
+20
+00:00:40,973 --> 00:00:42,535
+What the banks know.
+
+21
+00:00:42,585 --> 00:00:44,066
+What the rich know.
+
+22
+00:00:44,116 --> 00:00:48,659
+And in the next 15 minutes, you're going to learn it too.
+
+23
+00:00:52,260 --> 00:00:54,973
+It starts with Jake's first paycheck.
+
+24
+00:00:55,023 --> 00:00:56,691
+He puts it in the bank.
+
+25
+00:00:56,741 --> 00:00:57,065
+Safe.
+
+26
+00:00:57,115 --> 00:00:59,529
+Exactly where you're supposed to.
+
+27
+00:00:59,579 --> 00:01:01,920
+At least, that's what he thinks.
+
+28
+00:01:02,320 --> 00:01:08,317
+Here's the first thing nobody tells you: The moment you deposit money, it stops
+
+29
+00:01:08,367 --> 00:01:09,235
+being yours…
+
+30
+00:01:09,285 --> 00:01:10,843
+in the way you think.
+
+31
+00:01:10,893 --> 00:01:14,593
+Legally, you've just lent your money to the bank.
+
+32
+00:01:14,643 --> 00:01:18,803
+Your balance isn't a pile of cash with your name on it.
+
+33
+00:01:18,853 --> 00:01:19,952
+It's a promise.
+
+34
+00:01:20,002 --> 00:01:21,330
+The bank owes you.
+
+35
+00:01:21,730 --> 00:01:26,266
+And the bank doesn't keep your money lying around.
+
+36
+00:01:26,316 --> 00:01:27,275
+It uses it.
+
+37
+00:01:27,325 --> 00:01:28,100
+Lends it.
+
+38
+00:01:28,150 --> 00:01:29,109
+Invests it.
+
+39
+00:01:29,510 --> 00:01:34,658
+While Jake sleeps, his paycheck is already working, for the bank.
+
+40
+00:01:34,708 --> 00:01:40,577
+It might be financing a stranger's car at seven or eight percent interest.
+
+41
+00:01:40,627 --> 00:01:43,136
+Jake gets almost nothing for it.
+
+42
+00:01:43,186 --> 00:01:45,535
+The bank keeps the difference.
+
+43
+00:01:45,585 --> 00:01:46,255
+And Jake?
+
+44
+00:01:46,305 --> 00:01:48,735
+He doesn't even know it's gone.
+
+45
+00:01:48,785 --> 00:01:50,894
+His app still shows $5,000.
+
+46
+00:01:50,944 --> 00:01:54,013
+Because the app doesn't show the money.
+
+47
+00:01:54,063 --> 00:01:55,693
+It shows the promise.
+
+48
+00:01:55,743 --> 00:02:02,251
+For decades, American banks at least had to keep a small part of their deposits in
+
+49
+00:02:02,301 --> 00:02:02,891
+reserve.
+
+50
+00:02:02,941 --> 00:02:07,050
+In March 2020, that requirement was lowered to zero.
+
+51
+00:02:07,100 --> 00:02:08,090
+Zero percent.
+
+52
+00:02:08,490 --> 00:02:13,483
+So how much money is actually sitting in the vault, waiting for Jake?
+
+53
+00:02:13,533 --> 00:02:15,237
+Far less than he thinks.
+
+54
+00:02:15,287 --> 00:02:18,088
+But that's not even the strangest part.
+
+55
+00:02:18,138 --> 00:02:21,889
+Because the bank doesn't just lend out Jake's money.
+
+56
+00:02:21,939 --> 00:02:24,740
+It can create money that never existed.
+
+57
+00:02:25,140 --> 00:02:28,537
+A few years later, Ryan buys his first house.
+
+58
+00:02:28,587 --> 00:02:31,524
+He takes out a 300,000-dollar mortgage.
+
+59
+00:02:31,574 --> 00:02:37,500
+Most people imagine the bank opens its vault, takes 300,000 dollars that other
+
+60
+00:02:37,550 --> 00:02:40,181
+customers saved, and hands it over.
+
+61
+00:02:40,231 --> 00:02:42,020
+That's not what happens.
+
+62
+00:02:42,420 --> 00:02:46,574
+The bank types 300,000 dollars into existence.
+
+63
+00:02:46,624 --> 00:02:49,865
+One second, the money doesn't exist.
+
+64
+00:02:49,915 --> 00:02:52,150
+The next second, it does.
+
+65
+00:02:52,200 --> 00:02:54,984
+This isn't a conspiracy theory.
+
+66
+00:02:55,034 --> 00:03:02,571
+The Bank of England, one of the oldest central banks in the world, said it in plain
+
+67
+00:03:02,621 --> 00:03:09,427
+language in 2014: The majority of money in the modern economy is created by
+
+68
+00:03:09,477 --> 00:03:10,981
+commercial banks…
+
+69
+00:03:11,031 --> 00:03:12,169
+making loans.
+
+70
+00:03:12,570 --> 00:03:14,377
+And it works in reverse.
+
+71
+00:03:14,427 --> 00:03:20,569
+Every month, when Ryan pays back his mortgage, that money doesn't go back into a
+
+72
+00:03:20,619 --> 00:03:21,033
+vault.
+
+73
+00:03:21,083 --> 00:03:22,039
+It's deleted.
+
+74
+00:03:22,440 --> 00:03:24,306
+Think about what this means.
+
+75
+00:03:24,356 --> 00:03:28,550
+Almost every dollar in the system was born as somebody's debt.
+
+76
+00:03:28,600 --> 00:03:33,958
+If everyone paid back every debt tomorrow, most of the money in the world would
+
+77
+00:03:34,008 --> 00:03:35,121
+simply disappear.
+
+78
+00:03:35,171 --> 00:03:36,079
+Money is debt.
+
+79
+00:03:36,480 --> 00:03:43,181
+By the end of 2025, American households owed about 18.8 trillion dollars.
+
+80
+00:03:43,231 --> 00:03:44,106
+Mortgages.
+
+81
+00:03:44,156 --> 00:03:45,031
+Car loans.
+
+82
+00:03:45,081 --> 00:03:46,325
+Student loans.
+
+83
+00:03:46,375 --> 00:03:47,528
+Credit cards.
+
+84
+00:03:47,578 --> 00:03:52,429
+And now look at Ryan's mortgage from the bank's side.
+
+85
+00:03:52,830 --> 00:03:58,462
+300,000 dollars, over 30 years, at seven percent interest.
+
+86
+00:03:58,512 --> 00:04:06,397
+By the time Ryan has paid it off, he'll have paid the bank about 718,000 dollars.
+
+87
+00:04:06,447 --> 00:04:10,610
+More than 400,000 of that is just interest.
+
+88
+00:04:11,010 --> 00:04:12,390
+Let that sink in.
+
+89
+00:04:12,440 --> 00:04:16,765
+The bank created the 300,000 dollars out of nothing…
+
+90
+00:04:16,815 --> 00:04:21,982
+and will collect more than 400,000 dollars in interest for it.
+
+91
+00:04:22,032 --> 00:04:23,749
+And if money is debt…
+
+92
+00:04:23,799 --> 00:04:28,124
+then someone is making a fortune from all that debt.
+
+93
+00:04:28,174 --> 00:04:30,060
+Want to guess who else?
+
+94
+00:04:30,460 --> 00:04:34,192
+Let's look at Jake's money from the bank's side.
+
+95
+00:04:34,242 --> 00:04:38,289
+Jake keeps his savings in a regular savings account.
+
+96
+00:04:38,339 --> 00:04:42,544
+For that, many big banks pay him a tiny interest rate.
+
+97
+00:04:42,594 --> 00:04:44,829
+Often well under one percent.
+
+98
+00:04:44,879 --> 00:04:49,556
+At the same time, Jake carries a balance on his credit card.
+
+99
+00:04:49,606 --> 00:04:55,860
+In 2025, the average credit card interest rate in America was around 21 percent.
+
+100
+00:04:56,260 --> 00:05:00,706
+So the bank borrows Jake's money for almost nothing…
+
+101
+00:05:00,756 --> 00:05:06,154
+and lends money back to people like Jake for twenty times more.
+
+102
+00:05:06,204 --> 00:05:10,910
+That gap is one of the oldest business models on Earth.
+
+103
+00:05:11,310 --> 00:05:16,342
+And the card companies have a favorite trick: the minimum payment.
+
+104
+00:05:16,392 --> 00:05:22,504
+Say Jake owes 5,000 dollars at 21 percent, and only pays the minimum each month.
+
+105
+00:05:22,554 --> 00:05:26,046
+It can take him around 19 years to pay it off.
+
+106
+00:05:26,096 --> 00:05:29,743
+And he'll pay roughly 7,700 dollars in interest.
+
+107
+00:05:29,793 --> 00:05:31,900
+More than the original debt.
+
+108
+00:05:32,300 --> 00:05:38,940
+And if you think that's bad, the price of money gets even worse the poorer you are.
+
+109
+00:05:38,990 --> 00:05:45,470
+A typical payday loan charges 15 dollars for every 100 dollars borrowed, for just
+
+110
+00:05:45,520 --> 00:05:46,276
+two weeks.
+
+111
+00:05:46,326 --> 00:05:52,966
+According to America's consumer protection agency, that works out to an annual rate
+
+112
+00:05:53,016 --> 00:05:54,740
+of almost 400 percent.
+
+113
+00:05:54,790 --> 00:05:58,689
+But there's another one most people never notice.
+
+114
+00:05:59,090 --> 00:06:03,355
+Every time you pay with a card, the store pays a fee.
+
+115
+00:06:03,405 --> 00:06:05,391
+Often around two percent.
+
+116
+00:06:05,441 --> 00:06:11,335
+In 2024, American businesses paid about 187 billion dollars in card fees.
+
+117
+00:06:11,385 --> 00:06:15,000
+And where do you think stores get that money?
+
+118
+00:06:15,400 --> 00:06:16,054
+From you.
+
+119
+00:06:16,104 --> 00:06:18,166
+It's built into the prices.
+
+120
+00:06:18,216 --> 00:06:22,313
+Even when you pay cash, you pay for everyone's cards.
+
+121
+00:06:22,363 --> 00:06:25,051
+The bank makes money when you save.
+
+122
+00:06:25,101 --> 00:06:27,477
+It makes money when you borrow.
+
+123
+00:06:27,527 --> 00:06:29,746
+It makes money when you shop.
+
+124
+00:06:29,796 --> 00:06:33,658
+But the biggest money machine of all isn't a bank.
+
+125
+00:06:33,708 --> 00:06:36,710
+It's the place where new money is born.
+
+126
+00:06:37,110 --> 00:06:40,952
+This is the Federal Reserve, America's central bank.
+
+127
+00:06:41,002 --> 00:06:46,790
+When there's a crisis, the Fed can create money on a scale no normal bank ever
+
+128
+00:06:46,840 --> 00:06:47,239
+could.
+
+129
+00:06:47,289 --> 00:06:49,110
+No printing press needed.
+
+130
+00:06:49,160 --> 00:06:54,350
+It buys bonds from banks and pays with money it creates on a computer.
+
+131
+00:06:54,750 --> 00:07:02,496
+Before the 2008 financial crisis, everything the Fed owned was worth under 900
+
+132
+00:07:02,546 --> 00:07:04,096
+billion dollars.
+
+133
+00:07:04,146 --> 00:07:07,494
+By 2022, it was almost 9 trillion.
+
+134
+00:07:07,544 --> 00:07:08,994
+Ten times more.
+
+135
+00:07:09,044 --> 00:07:17,090
+When the pandemic hit, it jumped in just one year from about 4.2 trillion to more
+
+136
+00:07:17,140 --> 00:07:18,890
+than 7.5 trillion.
+
+137
+00:07:19,290 --> 00:07:26,247
+If you spent a million dollars every single day, it would take you more than 20,000
+
+138
+00:07:26,297 --> 00:07:28,442
+years to spend 8 trillion.
+
+139
+00:07:28,492 --> 00:07:31,059
+So where did all that money go?
+
+140
+00:07:31,109 --> 00:07:35,450
+Here's the part that changes how you see everything.
+
+141
+00:07:35,850 --> 00:07:39,355
+New money doesn't arrive everywhere at once.
+
+142
+00:07:39,405 --> 00:07:41,052
+It enters at the top.
+
+143
+00:07:41,102 --> 00:07:42,183
+Through banks.
+
+144
+00:07:42,233 --> 00:07:44,285
+Through financial markets.
+
+145
+00:07:44,335 --> 00:07:50,426
+The people closest to it get it first, and they spend it before prices rise.
+
+146
+00:07:50,476 --> 00:07:52,608
+Everyone else gets it last.
+
+147
+00:07:52,658 --> 00:07:59,154
+Economists call this the Cantillon effect, named after an 18th-century banker who
+
+148
+00:07:59,204 --> 00:08:01,174
+noticed it 300 years ago.
+
+149
+00:08:01,224 --> 00:08:04,730
+And in 2020, you could watch it happen live.
+
+150
+00:08:05,130 --> 00:08:10,687
+American home prices rose more than 30 percent in just two years.
+
+151
+00:08:10,737 --> 00:08:16,035
+The stock market doubled from its 2020 low in under 18 months.
+
+152
+00:08:16,085 --> 00:08:19,054
+People who owned houses and stocks…
+
+153
+00:08:19,104 --> 00:08:19,917
+like Ryan…
+
+154
+00:08:19,967 --> 00:08:22,850
+got richer without doing anything.
+
+155
+00:08:23,250 --> 00:08:29,273
+Ryan's 300,000-dollar house was suddenly worth around 390,000.
+
+156
+00:08:29,323 --> 00:08:35,151
+He gained about 90,000 dollars in two years, while sleeping.
+
+157
+00:08:35,201 --> 00:08:39,070
+More than his salary for an entire year.
+
+158
+00:08:39,470 --> 00:08:41,501
+People who owned nothing…
+
+159
+00:08:41,551 --> 00:08:42,334
+like Jake…
+
+160
+00:08:42,384 --> 00:08:46,164
+just watched everything become more expensive.
+
+161
+00:08:46,214 --> 00:08:47,163
+Same salary.
+
+162
+00:08:47,213 --> 00:08:48,162
+Same street.
+
+163
+00:08:48,212 --> 00:08:50,493
+Completely different result.
+
+164
+00:08:50,543 --> 00:08:56,655
+And there's one more force quietly working against Jake, every single day.
+
+165
+00:08:56,705 --> 00:08:58,570
+One he never agreed to.
+
+166
+00:08:58,970 --> 00:09:03,091
+In 1971, 100 dollars could fill a cart like this.
+
+167
+00:09:03,141 --> 00:09:08,030
+Today, to buy the same things, you need about 800 dollars.
+
+168
+00:09:08,430 --> 00:09:10,383
+Nobody stole your money.
+
+169
+00:09:10,433 --> 00:09:12,469
+It's still the same bill.
+
+170
+00:09:12,519 --> 00:09:13,971
+It just buys less.
+
+171
+00:09:14,021 --> 00:09:14,890
+Every year.
+
+172
+00:09:14,940 --> 00:09:16,308
+That's inflation.
+
+173
+00:09:16,358 --> 00:09:21,400
+And here's what most people never hear: It's not an accident.
+
+174
+00:09:21,800 --> 00:09:28,791
+The Federal Reserve officially aims for prices to rise by about two percent every
+
+175
+00:09:28,841 --> 00:09:29,226
+year.
+
+176
+00:09:29,276 --> 00:09:31,399
+Two percent sounds small.
+
+177
+00:09:31,449 --> 00:09:37,920
+But over 35 years, two percent a year cuts what your money can buy in half.
+
+178
+00:09:38,320 --> 00:09:44,655
+So Jake, saving responsibly in his bank account at under one percent…
+
+179
+00:09:44,705 --> 00:09:48,171
+is actually getting poorer every year.
+
+180
+00:09:48,221 --> 00:09:48,819
+Slowly.
+
+181
+00:09:48,869 --> 00:09:49,560
+Quietly.
+
+182
+00:09:49,960 --> 00:09:54,919
+Let's say Jake has saved 20,000 dollars, earning half a percent.
+
+183
+00:09:54,969 --> 00:10:01,259
+If prices rise by three percent that year, his savings lose around 500 dollars in
+
+184
+00:10:01,309 --> 00:10:02,120
+real value.
+
+185
+00:10:02,170 --> 00:10:03,059
+In one year.
+
+186
+00:10:03,109 --> 00:10:05,799
+Without him spending a single cent.
+
+187
+00:10:05,849 --> 00:10:12,295
+Do that for ten years, and Jake has worked months of his life for money that simply
+
+188
+00:10:12,345 --> 00:10:13,234
+melted away.
+
+189
+00:10:13,284 --> 00:10:13,939
+And Ryan?
+
+190
+00:10:13,989 --> 00:10:17,852
+His house and his stocks tend to rise with prices.
+
+191
+00:10:17,902 --> 00:10:19,496
+Inflation melts cash.
+
+192
+00:10:19,546 --> 00:10:22,392
+And it rewards people who own things.
+
+193
+00:10:22,442 --> 00:10:28,575
+Which brings us to the question you've been waiting for: How do the really rich
+
+194
+00:10:28,625 --> 00:10:29,750
+play this game?
+
+195
+00:10:30,150 --> 00:10:34,396
+Jake earns money, pays tax on it, and saves what's left.
+
+196
+00:10:34,446 --> 00:10:36,928
+Ryan earns money and buys assets.
+
+197
+00:10:36,978 --> 00:10:40,918
+But the richest people on Earth go one step further.
+
+198
+00:10:40,968 --> 00:10:43,220
+They barely use income at all.
+
+199
+00:10:43,620 --> 00:10:47,623
+Their wealth sits in shares of their companies.
+
+200
+00:10:47,673 --> 00:10:51,158
+And shares that aren't sold aren't taxed.
+
+201
+00:10:51,208 --> 00:10:56,160
+So when they need money for a house, a jet, a new company…
+
+202
+00:10:56,210 --> 00:10:57,540
+they don't sell.
+
+203
+00:10:57,940 --> 00:10:58,759
+They borrow.
+
+204
+00:10:58,809 --> 00:11:01,148
+Using their shares as collateral.
+
+205
+00:11:01,198 --> 00:11:02,597
+A loan isn't income.
+
+206
+00:11:02,647 --> 00:11:04,769
+So it isn't taxed like income.
+
+207
+00:11:04,819 --> 00:11:06,507
+The shares keep growing.
+
+208
+00:11:06,557 --> 00:11:08,970
+The loans get paid with new loans.
+
+209
+00:11:09,370 --> 00:11:13,543
+Imagine someone with one billion dollars in shares.
+
+210
+00:11:13,593 --> 00:11:20,003
+If those shares grow eight percent in a year, that's 80 million dollars of new
+
+211
+00:11:20,053 --> 00:11:20,583
+wealth.
+
+212
+00:11:20,633 --> 00:11:23,399
+They borrow 10 million to live on.
+
+213
+00:11:23,449 --> 00:11:27,457
+At five percent, the interest is 500,000 dollars.
+
+214
+00:11:27,507 --> 00:11:28,285
+No salary.
+
+215
+00:11:28,335 --> 00:11:28,948
+No sale.
+
+216
+00:11:28,998 --> 00:11:31,929
+And no income tax on the 10 million.
+
+217
+00:11:31,979 --> 00:11:35,739
+The wealth keeps growing faster than the debt.
+
+218
+00:11:35,789 --> 00:11:37,230
+And when they die?
+
+219
+00:11:37,630 --> 00:11:42,905
+Under American tax law, their heirs inherit those shares at today's value.
+
+220
+00:11:42,955 --> 00:11:48,446
+All the gains that built up over a lifetime are never taxed as capital gains.
+
+221
+00:11:48,496 --> 00:11:51,468
+In finance, this has a dark nickname: Buy.
+
+222
+00:11:51,518 --> 00:11:51,972
+Borrow.
+
+223
+00:11:52,022 --> 00:11:52,260
+Die.
+
+224
+00:11:52,660 --> 00:11:58,331
+In 2021, the newsroom ProPublica got hold of secret IRS data.
+
+225
+00:11:58,381 --> 00:12:06,022
+They compared what the 25 richest Americans paid in taxes to how much their wealth
+
+226
+00:12:06,072 --> 00:12:06,491
+grew.
+
+227
+00:12:06,541 --> 00:12:13,994
+Between 2014 and 2018, that was what ProPublica called a "true tax rate" of just
+
+228
+00:12:14,044 --> 00:12:15,120
+3.4 percent.
+
+229
+00:12:15,520 --> 00:12:16,367
+It's legal.
+
+230
+00:12:16,417 --> 00:12:18,569
+It's just a different game.
+
+231
+00:12:18,619 --> 00:12:23,790
+And it all runs on one thing Jake has been taught to fear: debt.
+
+232
+00:12:24,190 --> 00:12:27,538
+Here's the cruelest part of the whole system.
+
+233
+00:12:27,588 --> 00:12:28,897
+Money has a price.
+
+234
+00:12:28,947 --> 00:12:30,483
+It's called interest.
+
+235
+00:12:30,533 --> 00:12:33,731
+And the price is not the same for everyone.
+
+236
+00:12:33,781 --> 00:12:37,280
+Jake pays around 21 percent on his credit card.
+
+237
+00:12:37,330 --> 00:12:43,096
+The billionaire, borrowing against millions in shares, can often borrow for a
+
+238
+00:12:43,146 --> 00:12:44,380
+fraction of that.
+
+239
+00:12:44,780 --> 00:12:48,580
+The less money you have, the more money costs you.
+
+240
+00:12:48,630 --> 00:12:52,276
+The more money you have, the cheaper money gets.
+
+241
+00:12:52,326 --> 00:12:55,203
+And look at what each one borrows for.
+
+242
+00:12:55,253 --> 00:12:58,514
+Jake borrows to buy things that lose value.
+
+243
+00:12:58,564 --> 00:12:58,899
+A TV.
+
+244
+00:12:58,949 --> 00:12:59,361
+A car.
+
+245
+00:12:59,411 --> 00:13:00,208
+A vacation.
+
+246
+00:13:00,258 --> 00:13:03,751
+The rich borrow to buy things that gain value.
+
+247
+00:13:03,801 --> 00:13:04,521
+Companies.
+
+248
+00:13:04,571 --> 00:13:05,291
+Buildings.
+
+249
+00:13:05,341 --> 00:13:05,830
+Shares.
+
+250
+00:13:05,880 --> 00:13:08,294
+For most people, debt is a trap.
+
+251
+00:13:08,344 --> 00:13:12,299
+For the people who understand money, debt is a tool.
+
+252
+00:13:12,349 --> 00:13:13,146
+Same thing.
+
+253
+00:13:13,196 --> 00:13:14,378
+Opposite result.
+
+254
+00:13:14,428 --> 00:13:20,000
+But what happens when the people playing with all this debt get it wrong?
+
+255
+00:13:20,400 --> 00:13:21,801
+March 9th, 2023.
+
+256
+00:13:21,851 --> 00:13:26,970
+Silicon Valley Bank, one of the biggest banks in America.
+
+257
+00:13:27,020 --> 00:13:28,421
+A rumor spreads.
+
+258
+00:13:28,471 --> 00:13:30,235
+Group chats explode.
+
+259
+00:13:30,285 --> 00:13:32,140
+"Get your money out."
+
+260
+00:13:32,540 --> 00:13:38,157
+In a single day, customers tried to withdraw 42 billion dollars.
+
+261
+00:13:38,207 --> 00:13:40,903
+But remember Secret Number One.
+
+262
+00:13:40,953 --> 00:13:43,560
+The money was never all there.
+
+263
+00:13:43,960 --> 00:13:47,824
+The next morning, regulators shut the bank down.
+
+264
+00:13:47,874 --> 00:13:52,717
+In America, deposits are only insured up to 250,000 dollars.
+
+265
+00:13:52,767 --> 00:13:56,958
+Most of the money at this bank was above that limit.
+
+266
+00:13:57,008 --> 00:14:02,749
+And yet, two days later, the government guaranteed every single dollar.
+
+267
+00:14:02,799 --> 00:14:04,461
+Even above the limit.
+
+268
+00:14:04,511 --> 00:14:04,788
+Why?
+
+269
+00:14:04,838 --> 00:14:10,660
+Because if trust breaks at one bank, people start running from the next.
+
+270
+00:14:11,060 --> 00:14:12,921
+We've seen this before.
+
+271
+00:14:12,971 --> 00:14:18,324
+In 2008, when the big banks gambled and lost, Congress approved a
+
+272
+00:14:18,374 --> 00:14:21,150
+700-billion-dollar rescue program.
+
+273
+00:14:21,550 --> 00:14:27,502
+And a few months later, the insurance giant AIG, which had just been rescued with
+
+274
+00:14:27,552 --> 00:14:33,430
+taxpayer money, paid out around 165 million dollars in bonuses to its employees.
+
+275
+00:14:33,480 --> 00:14:39,506
+According to New York's attorney general, 73 of them received at least one million
+
+276
+00:14:39,556 --> 00:14:40,470
+dollars each.
+
+277
+00:14:40,870 --> 00:14:45,148
+When the system wins, the profits are private.
+
+278
+00:14:45,198 --> 00:14:50,042
+When it loses, the losses become everyone's problem.
+
+279
+00:14:50,092 --> 00:14:51,548
+Heads, they win.
+
+280
+00:14:51,598 --> 00:14:52,113
+Tails…
+
+281
+00:14:52,163 --> 00:14:52,960
+you lose.
+
+282
+00:14:53,360 --> 00:14:56,194
+So let's go back to Jake and Ryan.
+
+283
+00:14:56,244 --> 00:14:57,212
+Same street.
+
+284
+00:14:57,262 --> 00:14:58,230
+Same school.
+
+285
+00:14:58,280 --> 00:14:59,248
+Same salary.
+
+286
+00:14:59,298 --> 00:15:01,963
+Jake did everything he was told.
+
+287
+00:15:02,013 --> 00:15:03,151
+He saved cash.
+
+288
+00:15:03,201 --> 00:15:05,102
+He borrowed for things.
+
+289
+00:15:05,152 --> 00:15:08,326
+He trusted the bank to keep his money.
+
+290
+00:15:08,376 --> 00:15:10,278
+Ryan learned the rules.
+
+291
+00:15:10,328 --> 00:15:11,720
+Cash loses value.
+
+292
+00:15:11,770 --> 00:15:13,332
+So he owned things.
+
+293
+00:15:13,382 --> 00:15:16,047
+New money flows to assets first.
+
+294
+00:15:16,097 --> 00:15:17,659
+So he owned assets.
+
+295
+00:15:17,709 --> 00:15:18,931
+Debt is a tool.
+
+296
+00:15:18,981 --> 00:15:22,580
+So he only used it to buy things that grow.
+
+297
+00:15:24,180 --> 00:15:27,269
+And here's the part that hurts the most.
+
+298
+00:15:27,319 --> 00:15:33,704
+If Jake had simply put 300 dollars a month into a broad stock market fund from age
+
+299
+00:15:33,754 --> 00:15:39,825
+25, and it had grown at the market's long-term average of around ten percent a
+
+300
+00:15:39,875 --> 00:15:46,104
+year, which is never guaranteed, by 45 he would have had around 228,000 dollars.
+
+301
+00:15:46,154 --> 00:15:49,400
+From just 72,000 dollars of his own money.
+
+302
+00:15:49,450 --> 00:15:50,106
+The rest?
+
+303
+00:15:50,156 --> 00:15:53,088
+The same force the rich use every day.
+
+304
+00:15:53,138 --> 00:15:54,972
+Owning things that grow.
+
+305
+00:15:55,022 --> 00:15:57,876
+Neither of them did anything illegal.
+
+306
+00:15:57,926 --> 00:16:00,073
+Neither of them was smarter.
+
+307
+00:16:00,123 --> 00:16:04,389
+The only difference was knowing how money really works.
+
+308
+00:16:04,790 --> 00:16:06,938
+Look at that dollar again.
+
+309
+00:16:06,988 --> 00:16:08,628
+Four cents of paper.
+
+310
+00:16:08,678 --> 00:16:11,756
+Most money like it was never printed.
+
+311
+00:16:11,806 --> 00:16:16,744
+Only typed into existence, the moment someone took on debt.
+
+312
+00:16:16,794 --> 00:16:20,126
+And it's worth a little less every year.
+
+313
+00:16:20,176 --> 00:16:25,030
+It works for one reason only: we all keep believing in it.
+
+314
+00:16:25,430 --> 00:16:28,070
+Now you know the rules.
+
+315
+00:16:28,120 --> 00:16:30,760
+Most people never will.
+
+316
+00:16:31,160 --> 00:16:34,585
+If this changed how you see money, subscribe.
+
+317
+00:16:34,635 --> 00:16:38,370
+There's a lot more the banks will never tell you.

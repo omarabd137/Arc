@@ -1,0 +1,346 @@
+[
+ {
+  "id": "B0",
+  "chap": "0:00 COLD OPEN",
+  "visual": "Holztisch, warmes Licht. Eine Hand legt einen frischen 100-$-Schein hin.",
+  "sfx": [
+   "Papier auf Holz (beim Hinlegen)"
+  ],
+  "text": "This is a hundred-dollar bill. It costs less than ten cents to make. And by the end of this video, this exact bill will make one man rich… and another man poor. Neither of them breaks a single rule. They both do exactly what they were taught."
+ },
+ {
+  "id": "B1",
+  "chap": "0:00 COLD OPEN",
+  "visual": "Ruhige Vorstadtstraße, zwei Häuser nebeneinander. Zwei Jungs (ca. 10) schieben ihre Fahrräder nebeneinander, lachen.",
+  "sfx": [],
+  "text": "Meet Jake. And Ryan. Same street. Same school. Same grades. At twenty-five, they even get hired by the same company. Same desk. Same salary. Sixty thousand dollars a year."
+ },
+ {
+  "id": "B2",
+  "chap": "0:00 COLD OPEN",
+  "visual": "Büro, beide mit 25 an Nachbartischen, je ein Gehaltsscheck „$60,000 / year“.",
+  "sfx": [],
+  "text": "Twenty years later…"
+ },
+ {
+  "id": "B3",
+  "chap": "0:00 COLD OPEN",
+  "visual": "Split: Jake 45 im kleinen Mietapartment, Mahnung auf dem Tisch | Ryan 45 auf der Veranda seines eigenen Hauses.",
+  "sfx": [
+   "leiser Stinger beim Split"
+  ],
+  "text": "…Ryan is a millionaire. Jake is still renting, and still paying off a credit card. Ryan isn't smarter. He didn't inherit anything. He didn't get lucky. He just understood three things Jake never did. Where money actually comes from. Who gets it first. And why the same paycheck can make one person rich… and keep another one poor. Once you see it, you can never unsee it."
+ },
+ {
+  "id": "B4",
+  "chap": "0:00 COLD OPEN",
+  "visual": "Titel: HOW MONEY REALLY WORKS über dem Schein.",
+  "sfx": [
+   "tiefer Impact"
+  ],
+  "text": ""
+ },
+ {
+  "id": "B5",
+  "chap": "SECRET #1 – THE DEPOSIT",
+  "visual": "Jake (25) betritt eine schöne Bankfiliale (Marmor, Schalter, Logo „First National“).",
+  "sfx": [
+   "Türglocke beim Eintreten"
+  ],
+  "text": "Let's follow the bill. Jake gets his first paycheck, and he does the responsible thing. He takes it to the bank."
+ },
+ {
+  "id": "B6",
+  "chap": "SECRET #1 – THE DEPOSIT",
+  "visual": "Am Schalter. TELLER: \"All safe with us!\" — JAKE: \"Great, thanks!\" Jake schiebt den Schein über den Tresen.",
+  "sfx": [],
+  "text": "And here's the first thing nobody tells you. The moment that bill crosses the counter, it stops being Jake's. Legally, Jake just lent his money to the bank. What he gets back isn't cash. It's a number in an app. A promise."
+ },
+ {
+  "id": "B7",
+  "chap": "SECRET #1 – THE DEPOSIT",
+  "visual": "Analogie: Garderobe – Jake gibt Mantel ab, bekommt Marke; hinten verleiht der Garderobier den Mantel an einen Fremden.",
+  "sfx": [],
+  "text": "Think of it like a coat check. You hand over your coat and get a little ticket. Except this coat check doesn't keep your coat. It lends it out to someone else while you're inside, and charges them for it."
+ },
+ {
+  "id": "B8",
+  "chap": "SECRET #1 – THE DEPOSIT",
+  "visual": "Hinter dem Schalter: der Schein geht weiter zu einem Fremden, der im Autohaus einen Schlüssel bekommt.",
+  "sfx": [
+   "Autoschlüssel klimpern (Schlüsselübergabe)"
+  ],
+  "text": "Before Jake is even home, the bank has lent his money to a stranger buying a car. At eight percent interest. Jake earns almost nothing. The bank keeps the difference."
+ },
+ {
+  "id": "B9",
+  "chap": "SECRET #1 – THE DEPOSIT",
+  "visual": "Nacht. Jake schläft, auf dem Nachttisch leuchtet das Handy: „Balance $100“. Schnitt: Banktresor – fast leer.",
+  "sfx": [],
+  "text": "So how much does the bank actually have to keep in the vault, in case Jake wants his money back? Since March 2020, in America, the legal requirement is… zero."
+ },
+ {
+  "id": "B10",
+  "chap": "SECRET #1 – THE DEPOSIT",
+  "visual": "Große „0 %“ auf der Tresortür.",
+  "sfx": [
+   "Tresortür fällt dumpf zu"
+  ],
+  "text": "Zero percent. If everyone asked for their money on the same day, it simply wouldn't be there. That's exactly what happened in the 1930s, when thousands of banks collapsed. Today, the government insures deposits up to two hundred fifty thousand dollars, so people stay calm. But that's not even the strangest part. The bank didn't even need Jake's bill to lend money. It can create money that never existed."
+ },
+ {
+  "id": "B11",
+  "chap": "SECRET #2 – MONEY FROM NOTHING",
+  "visual": "Ryan (28) im Kreditbüro, Bankberater im Anzug, Hausprospekt auf dem Tisch. RYAN: \"I'd need three hundred thousand.\" — BANKER: \"No problem.\"",
+  "sfx": [],
+  "text": "Three years later, Ryan wants a house. He asks for a three-hundred-thousand-dollar mortgage."
+ },
+ {
+  "id": "B12",
+  "chap": "SECRET #2 – MONEY FROM NOTHING",
+  "visual": "Bildschirm des Beraters. Er tippt. Kontostand Ryan: $0 → $300,000.",
+  "sfx": [
+   "Tastatur (während er tippt); Klick (Enter)"
+  ],
+  "text": "So where does that money come from? Not from a vault. Not from other customers' savings. The banker types it in. That's it. A second ago, that money did not exist. Now it does. And when Ryan pays the loan back, it disappears again."
+ },
+ {
+  "id": "B13",
+  "chap": "SECRET #2 – MONEY FROM NOTHING",
+  "visual": "Dokument „Bank of England – Money creation in the modern economy (2014)“, Zeile wird gelb markiert.",
+  "sfx": [],
+  "text": "This isn't a conspiracy theory. The Bank of England published it in 2014. Most of the money in the modern economy is created by ordinary banks… whenever they make a loan."
+ },
+ {
+  "id": "B13b",
+  "chap": "SECRET #2 – MONEY FROM NOTHING",
+  "visual": "15. August 1971: Präsident Nixon am Schreibtisch im Oval Office vor der TV-Kamera. Daneben Goldbarren, die hinter einer Gittertür verschwinden.",
+  "sfx": [
+   "altes TV-Rauschen (kurz beim Schnitt auf den Fernseher)"
+  ],
+  "text": "But wait. Isn't money backed by gold? It used to be. Until one Sunday evening in August 1971. President Nixon went on television and announced that the dollar would no longer be exchangeable for gold. Since that night, the dollar is backed by one thing only: trust. Trust that others will accept it. Which means there's no natural limit on how many dollars can be created."
+ },
+ {
+  "id": "B14",
+  "chap": "SECRET #2 – MONEY FROM NOTHING",
+  "visual": "Vergleich: kleiner Stapel Bargeld neben einem riesigen Bildschirm voller Kontozahlen.",
+  "sfx": [],
+  "text": "That's why only about one in ten dollars in America exists as physical cash. The rest is numbers on screens, created by loans."
+ },
+ {
+  "id": "B15",
+  "chap": "SECRET #2 – MONEY FROM NOTHING",
+  "visual": "Federal Reserve Gebäude, Washington. Daneben Chart Fed-Bilanz 4 → fast 9 Bio.",
+  "sfx": [],
+  "text": "And above the banks sits the Federal Reserve, the bank of the banks. Between 2020 and 2022, it created trillions of new dollars. Its balance sheet more than doubled, from about four trillion to almost nine. Which leads to a dangerous question. When all that new money appears… who gets it first?"
+ },
+ {
+  "id": "B16",
+  "chap": "SECRET #3 – THE LINE",
+  "visual": "Brunnen-Kaskade: oben gießt jemand Wasser ein; oben Banker und Investoren mit vollen Gläsern; ganz unten Jake mit fast leerem Glas.",
+  "sfx": [],
+  "text": "Picture a fountain. New money is poured in at the top. The people closest to it, banks, big investors, the already rich, drink first. By the time it trickles down to Jake… it's barely a drop."
+ },
+ {
+  "id": "B17",
+  "chap": "SECRET #3 – THE LINE",
+  "visual": "1730er-Paris: Richard Cantillon am Schreibtisch mit Feder.",
+  "sfx": [],
+  "text": "An economist named Richard Cantillon noticed this almost three hundred years ago. Whoever gets new money first spends it at the old prices. Whoever gets it last… pays the new ones."
+ },
+ {
+  "id": "B18",
+  "chap": "SECRET #3 – THE LINE",
+  "visual": "Chart: US-Geldmenge 2020 steigt steil (+25 %). Daneben Häuser mit Preisschildern, die steigen.",
+  "sfx": [],
+  "text": "In 2020, the amount of dollars in America grew by about twenty-five percent. In a single year. The money went into stocks and houses first. American home prices jumped by around forty percent in two years. American billionaires got more than a trillion dollars richer."
+ },
+ {
+  "id": "B19",
+  "chap": "SECRET #3 – THE LINE",
+  "visual": "Jake an der Supermarktkasse, Summe höher als erwartet. JAKE: \"Wait… how much?\"",
+  "sfx": [
+   "Kassenpiepen (beim Scannen)"
+  ],
+  "text": "And Jake? Jake got a small raise. And much more expensive groceries. Which brings us to the tax nobody ever voted for."
+ },
+ {
+  "id": "B19b",
+  "chap": "SECRET #3 – THE LINE",
+  "visual": "Jake im Büro des Chefs. CHEF: \"Great year, Jake. Three percent raise!\" — JAKE: \"Thanks!\" Schnitt: Brief vom Vermieter „Rent +8 %“.",
+  "sfx": [
+   "Papier (Brief wird aufgefaltet)"
+  ],
+  "text": "Here's the cruel part. Jake's boss gives him a three-percent raise, and Jake is grateful. The same month, his landlord raises the rent by eight. On paper, Jake earns more than ever. In reality, he can afford less than last year. Wages are always the last thing in line at the fountain."
+ },
+ {
+  "id": "B20",
+  "chap": "SECRET #4 – THE INVISIBLE TAX",
+  "visual": "Unser 100-$-Schein auf dem Tisch; daneben schrumpft ein Einkaufskorb: Jahr 2000 voll, 2025 halb.",
+  "sfx": [],
+  "text": "This is what inflation really does. A hundred dollars from the year 2000 buys about what fifty-five did back then. Nobody took it out of your wallet. It just… quietly lost its power."
+ },
+ {
+  "id": "B21",
+  "chap": "SECRET #4 – THE INVISIBLE TAX",
+  "visual": "Jakes Sparkonto-App: „Interest 0.4 %“ neben Preisschild „Prices +3 % / year“.",
+  "sfx": [],
+  "text": "Jake keeps his savings in the bank, earning less than half a percent. Prices rise about three percent a year. So Jake isn't really saving. He's losing. Slowly. Every single year."
+ },
+ {
+  "id": "B21b",
+  "chap": "SECRET #4 – THE INVISIBLE TAX",
+  "visual": "Drei Notizzettel an einer Pinnwand: „WHERE DOES MONEY COME FROM? ✓“ – „WHO GETS IT FIRST? ✓“ – „WHY RICH VS. POOR? ?“",
+  "sfx": [],
+  "text": "Remember the three questions? We now know where money comes from, and who gets it first. But the most important one is still open. Why did the same paycheck take these two in opposite directions? It started with one boring decision."
+ },
+ {
+  "id": "B22",
+  "chap": "SECRET #4 – THE INVISIBLE TAX",
+  "visual": "Rückblende: Ryan (25) am Laptop richtet einen Dauerauftrag ein: „Auto-invest $500 / month → Index Fund“.",
+  "sfx": [
+   "Klick (Bestätigen)"
+  ],
+  "text": "Ryan did something boring at twenty-five. Every month, before he spent anything, five hundred dollars went automatically into an index fund. A tiny piece of the five hundred biggest companies in America."
+ },
+ {
+  "id": "B23",
+  "chap": "SECRET #4 – THE INVISIBLE TAX",
+  "visual": "Zwei Linien über 20 Jahre: Jakes Konto flach, Ryans Depot steigt steil.",
+  "sfx": [],
+  "text": "Over the long run, the stock market has grown about ten percent a year on average. Not guaranteed, with crashes along the way. But look what time does. The same ten thousand dollars, left alone for twenty years: in Jake's savings account, about ten thousand eight hundred. In Ryan's fund, historically, around sixty-seven thousand."
+ },
+ {
+  "id": "B24",
+  "chap": "SECRET #4 – THE INVISIBLE TAX",
+  "visual": "Jake (26) im Autohaus, unterschreibt Kreditvertrag für einen glänzenden Neuwagen.",
+  "sfx": [
+   "Stift auf Papier (Unterschrift)"
+  ],
+  "text": "Meanwhile, Jake did what felt normal. A new car. On a loan. The moment he drove it off the lot, it lost about a fifth of its value. Ryan's money bought things that grow. Jake's money bought things that shrink. And Jake's real trap was still coming."
+ },
+ {
+  "id": "B25",
+  "chap": "SECRET #5 – THE OTHER SIDE OF THE LOAN",
+  "visual": "Jake öffnet den Briefkasten: Werbebrief „Pre-approved! $10,000 credit limit“.",
+  "sfx": [
+   "Briefkastenklappe"
+  ],
+  "text": "One day, a letter arrives. Congratulations. Jake is pre-approved. Ten thousand dollars of credit."
+ },
+ {
+  "id": "B26",
+  "chap": "SECRET #5 – THE OTHER SIDE OF THE LOAN",
+  "visual": "Zwei Pfeile über dem Banktresen: Bank → Jake „Savings 0.4 %“ / Jake → Bank „Credit card 21 %“.",
+  "sfx": [],
+  "text": "Now look at the deal. The bank pays Jake less than half a percent on his savings. And charges him over twenty percent on his card. With money it can create by typing. Jake is on the losing side of every single trade."
+ },
+ {
+  "id": "B27",
+  "chap": "SECRET #5 – THE OTHER SIDE OF THE LOAN",
+  "visual": "Jake (35), Küchentisch, Rechnungsstapel, Taschenrechner, Abend.",
+  "sfx": [],
+  "text": "A five-thousand-dollar balance, paid back only at the minimum, can take more than ten years… and cost thousands in interest. It's not that Jake is stupid. Nobody ever showed him which side of the table he was sitting on. And the very rich? They sit on a side of the table most people don't even know exists."
+ },
+ {
+  "id": "B28",
+  "chap": "SECRET #6 – HOW THE RICH PLAY",
+  "visual": "Milliardär im Glasbüro hoch über der Stadt, Aktien als Turm aus Papier.",
+  "sfx": [],
+  "text": "Imagine you own a billion dollars in stock. If you sell it, you pay tax. So… you don't sell."
+ },
+ {
+  "id": "B29",
+  "chap": "SECRET #6 – HOW THE RICH PLAY",
+  "visual": "Milliardär legt Aktien als Pfand auf den Tisch einer Privatbank. BANKER: \"Borrow whatever you like, sir.\"",
+  "sfx": [],
+  "text": "Instead, you borrow against your shares. A loan isn't income. No income, no income tax. Your stocks keep growing, faster than the interest. So you borrow again. Reporters at ProPublica gave this strategy a name: Buy. Borrow. Die."
+ },
+ {
+  "id": "B30",
+  "chap": "SECRET #6 – HOW THE RICH PLAY",
+  "visual": "Ryan (40) auf der Veranda: Hauswert-Schild steigt, Depot steigt, Kreditrest sinkt.",
+  "sfx": [],
+  "text": "Ryan isn't a billionaire. But he plays a small version of the same game. His loan bought a house that grew. His paycheck bought shares that grew. Jake's loans bought a car and a lifestyle. And when the biggest players lose… something even stranger happens."
+ },
+ {
+  "id": "B31",
+  "chap": "SECRET #7 – HEADS THEY WIN, TAILS YOU LOSE",
+  "visual": "2008: Wall-Street-Fassade, rote Bildschirme, Schlagzeile „BANKS BAILED OUT“.",
+  "sfx": [
+   "Börsenlärm (kurz, beim Schnitt auf die Schlagzeile)"
+  ],
+  "text": "In 2008, the biggest banks made reckless bets with borrowed money, and lost. They weren't allowed to fail. Seven hundred billion dollars of taxpayer money was approved to rescue the system."
+ },
+ {
+  "id": "B32",
+  "chap": "SECRET #7 – HEADS THEY WIN, TAILS YOU LOSE",
+  "visual": "2023: Menschenschlange vor der Silicon Valley Bank; Schild „All deposits protected“.",
+  "sfx": [],
+  "text": "In 2023, Silicon Valley Bank collapsed. Every depositor got their money back, even the ones far above the insured limit. When they win, they keep the profits. When they lose, everyone else catches them. Remember Jake's credit card at twenty percent? Nobody is coming to rescue that."
+ },
+ {
+  "id": "B32b",
+  "chap": "SECRET #7 – HEADS THEY WIN, TAILS YOU LOSE",
+  "visual": "Fed-Sitzungssaal; Zinsschild fällt auf „0 %“. Schnitt: Aktienkurs-Bildschirm wird grün, Ryan und der Milliardär sehen zu.",
+  "sfx": [],
+  "text": "And every time there's a crisis, the Federal Reserve does the same thing. It cuts interest rates, sometimes to zero, and creates new money to buy bonds. That pushes up the price of stocks and houses. So the people who already own them are rescued twice. First by the bailout. Then by the new money."
+ },
+ {
+  "id": "B33",
+  "chap": "SECRET #7 – HEADS THEY WIN, TAILS YOU LOSE",
+  "visual": "Zwei Seiten einer Münze: „HEADS: THEY WIN“ / „TAILS: YOU PAY“.",
+  "sfx": [
+   "Münze wird geworfen (Ping), landet auf Holz"
+  ],
+  "text": "So let's answer the three questions. Where does money come from? Mostly from loans, typed into existence. Who gets it first? Those closest to the banks. And why does the same paycheck make one person rich… and keep another poor? Let's go back to our hundred-dollar bill."
+ },
+ {
+  "id": "B34",
+  "chap": "FINALE – THE BILL ON THE TABLE",
+  "visual": "Der Holztisch vom Anfang, warmes Licht. Der Schein liegt da. Jakes Hand und Ryans Hand von zwei Seiten.",
+  "sfx": [],
+  "text": "The same bill. In Jake's hands, it's something to spend, or to park in an account that slowly eats it. In Ryan's hands, it's a tool. A tiny piece of things that grow while the dollar shrinks."
+ },
+ {
+  "id": "B35",
+  "chap": "FINALE – THE BILL ON THE TABLE",
+  "visual": "Drei Karten erscheinen nacheinander auf dem Tisch: „OWN THINGS THAT GROW“ – „AVOID HIGH-INTEREST DEBT“ – „DON'T LET CASH ROT“.",
+  "sfx": [
+   "leises Papier-Auflegen je Karte"
+  ],
+  "text": "That's the whole secret. Own things that grow when money is printed. Stay away from debt that charges you twenty percent. And don't let your long-term savings sit somewhere that pays less than inflation. This isn't financial advice. It's just how the game is played."
+ },
+ {
+  "id": "B36",
+  "chap": "FINALE – THE BILL ON THE TABLE",
+  "visual": "Jake (45) und Ryan (45) zusammen auf Ryans Veranda, Abendlicht. Ryan zeigt Jake etwas auf dem Laptop. Jake lächelt zum ersten Mal. JAKE: \"Is it too late for me?\" — RYAN: \"The best time was twenty years ago. The second best is today.\"",
+  "sfx": [],
+  "text": "Jake can't get those twenty years back. But he finally knows the rules."
+ },
+ {
+  "id": "B36b",
+  "chap": "FINALE – THE BILL ON THE TABLE",
+  "visual": "Jake (45) am eigenen Laptop zu Hause, richtet „Auto-invest $500 / month“ ein, zerschneidet danach die Kreditkarte.",
+  "sfx": [
+   "Klick (Bestätigen); Schere schneidet Plastik"
+  ],
+  "text": "So Jake starts. Late, but he starts. He pays off the card first. Then five hundred dollars a month, automatically, into the same kind of fund Ryan chose. If the market does what it has done historically, and nothing is guaranteed, that could grow to over three hundred thousand dollars by the time Jake is sixty-five. Not because he got smarter. Because he finally moved to the other side of the table."
+ },
+ {
+  "id": "B36c",
+  "chap": "FINALE – THE BILL ON THE TABLE",
+  "visual": "Abendlicht, die Straße vom Anfang: Jake und Ryan (45) stehen nebeneinander vor ihren Häusern; auf dem Tisch vom Anfang liegt der Schein.",
+  "sfx": [],
+  "text": "Same salary. Same street. Different rules. Money was never the game. Knowing the rules is."
+ },
+ {
+  "id": "B37",
+  "chap": "FINALE – THE BILL ON THE TABLE",
+  "visual": "ARC-Endkarte, der Abo-Button wird geklickt.",
+  "sfx": [
+   "Klick (Abo-Button)"
+  ],
+  "text": "If this changed how you see money, subscribe. There's a lot more the banks will never tell you."
+ }
+]
