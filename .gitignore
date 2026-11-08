@@ -25,3 +25,6 @@ __pycache__/
 .git_defekt_alt/
 *.npy
 *.log
+# Remotion
+ARC_Master/arc-remotion/node_modules/
+ARC_Master/arc-remotion/out/
