@@ -10,6 +10,11 @@
   "private": true,
   "dependencies": {
     "@remotion/cli": "4.0.541",
+    "@remotion/google-fonts": "4.0.541",
+    "@remotion/noise": "4.0.541",
+    "@remotion/paths": "4.0.541",
+    "@remotion/shapes": "4.0.541",
+    "@remotion/transitions": "4.0.541",
     "react": "19.3.1",
     "react-dom": "19.3.1",
     "remotion": "4.0.541"

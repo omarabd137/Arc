@@ -44,6 +44,7 @@ def main():
         ain = av.open(a.audio)
         astream = out.add_stream("aac", rate=48000)
         astream.layout = "mono"
+        astream.bit_rate = 256000
         resampler = av.AudioResampler(format="fltp", layout="mono", rate=48000)
         for frame in ain.decode(audio=0):
             for rf in resampler.resample(frame):

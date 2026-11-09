@@ -1,0 +1,577 @@
+[
+ {
+  "text": "An",
+  "start": 0.0,
+  "end": 0.151
+ },
+ {
+  "text": "airline",
+  "start": 0.197,
+  "end": 0.58
+ },
+ {
+  "text": "overbooked",
+  "start": 0.615,
+  "end": 1.057
+ },
+ {
+  "text": "his",
+  "start": 1.08,
+  "end": 1.161
+ },
+ {
+  "text": "flight",
+  "start": 1.207,
+  "end": 1.498
+ },
+ {
+  "text": "—",
+  "start": 1.707,
+  "end": 1.753
+ },
+ {
+  "text": "by",
+  "start": 2.264,
+  "end": 2.426
+ },
+ {
+  "text": "law,",
+  "start": 2.519,
+  "end": 2.798
+ },
+ {
+  "text": "they",
+  "start": 2.821,
+  "end": 2.937
+ },
+ {
+  "text": "owed",
+  "start": 2.984,
+  "end": 3.111
+ },
+ {
+  "text": "him",
+  "start": 3.135,
+  "end": 3.216
+ },
+ {
+  "text": "cash.",
+  "start": 3.274,
+  "end": 3.82
+ },
+ {
+  "text": "See,",
+  "start": 4.423,
+  "end": 4.632
+ },
+ {
+  "text": "airlines",
+  "start": 4.656,
+  "end": 5.062
+ },
+ {
+  "text": "oversell",
+  "start": 5.143,
+  "end": 5.654
+ },
+ {
+  "text": "flights",
+  "start": 5.735,
+  "end": 6.142
+ },
+ {
+  "text": "—",
+  "start": 6.316,
+  "end": 6.385
+ },
+ {
+  "text": "on",
+  "start": 6.664,
+  "end": 6.815
+ },
+ {
+  "text": "purpose.",
+  "start": 6.885,
+  "end": 7.5
+ },
+ {
+  "text": "Everyone",
+  "start": 7.883,
+  "end": 8.278
+ },
+ {
+  "text": "shows",
+  "start": 8.313,
+  "end": 8.557
+ },
+ {
+  "text": "up...",
+  "start": 8.626,
+  "end": 8.998
+ },
+ {
+  "text": "someone's",
+  "start": 9.509,
+  "end": 9.95
+ },
+ {
+  "text": "stuck.",
+  "start": 10.008,
+  "end": 10.565
+ },
+ {
+  "text": "And",
+  "start": 11.006,
+  "end": 11.169
+ },
+ {
+  "text": "airlines",
+  "start": 11.215,
+  "end": 11.633
+ },
+ {
+  "text": "can't",
+  "start": 11.691,
+  "end": 11.958
+ },
+ {
+  "text": "just",
+  "start": 12.005,
+  "end": 12.179
+ },
+ {
+  "text": "kick",
+  "start": 12.237,
+  "end": 12.423
+ },
+ {
+  "text": "you",
+  "start": 12.481,
+  "end": 12.562
+ },
+ {
+  "text": "off",
+  "start": 12.643,
+  "end": 12.806
+ },
+ {
+  "text": "for",
+  "start": 12.852,
+  "end": 12.968
+ },
+ {
+  "text": "free.",
+  "start": 13.038,
+  "end": 13.549
+ },
+ {
+  "text": "First,",
+  "start": 14.153,
+  "end": 14.454
+ },
+ {
+  "text": "they've",
+  "start": 14.478,
+  "end": 14.71
+ },
+ {
+  "text": "got",
+  "start": 14.745,
+  "end": 14.965
+ },
+ {
+  "text": "to",
+  "start": 15.012,
+  "end": 15.07
+ },
+ {
+  "text": "ask",
+  "start": 15.163,
+  "end": 15.464
+ },
+ {
+  "text": "for",
+  "start": 15.534,
+  "end": 15.639
+ },
+ {
+  "text": "volunteers",
+  "start": 15.697,
+  "end": 16.428
+ },
+ {
+  "text": "—",
+  "start": 16.602,
+  "end": 16.649
+ },
+ {
+  "text": "and",
+  "start": 16.893,
+  "end": 17.055
+ },
+ {
+  "text": "offer",
+  "start": 17.113,
+  "end": 17.345
+ },
+ {
+  "text": "cash.",
+  "start": 17.404,
+  "end": 17.984
+ },
+ {
+  "text": "One",
+  "start": 18.797,
+  "end": 19.029
+ },
+ {
+  "text": "man's",
+  "start": 19.064,
+  "end": 19.331
+ },
+ {
+  "text": "hand",
+  "start": 19.377,
+  "end": 19.621
+ },
+ {
+  "text": "shoots",
+  "start": 19.702,
+  "end": 20.085
+ },
+ {
+  "text": "up",
+  "start": 20.144,
+  "end": 20.271
+ },
+ {
+  "text": "before",
+  "start": 20.329,
+  "end": 20.585
+ },
+ {
+  "text": "anyone",
+  "start": 20.62,
+  "end": 20.898
+ },
+ {
+  "text": "else",
+  "start": 20.921,
+  "end": 21.096
+ },
+ {
+  "text": "moves.",
+  "start": 21.142,
+  "end": 21.618
+ },
+ {
+  "text": "And",
+  "start": 21.897,
+  "end": 22.036
+ },
+ {
+  "text": "the",
+  "start": 22.071,
+  "end": 22.14
+ },
+ {
+  "text": "price",
+  "start": 22.198,
+  "end": 22.489
+ },
+ {
+  "text": "starts",
+  "start": 22.512,
+  "end": 22.767
+ },
+ {
+  "text": "climbing.",
+  "start": 22.825,
+  "end": 23.359
+ },
+ {
+  "text": "Two",
+  "start": 23.685,
+  "end": 23.882
+ },
+ {
+  "text": "hundred.",
+  "start": 23.952,
+  "end": 24.393
+ },
+ {
+  "text": "Four",
+  "start": 24.544,
+  "end": 24.787
+ },
+ {
+  "text": "hundred.",
+  "start": 24.834,
+  "end": 25.182
+ },
+ {
+  "text": "Six",
+  "start": 25.333,
+  "end": 25.589
+ },
+ {
+  "text": "hundred.",
+  "start": 25.647,
+  "end": 26.088
+ },
+ {
+  "text": "Nobody",
+  "start": 26.413,
+  "end": 26.738
+ },
+ {
+  "text": "budges.",
+  "start": 26.796,
+  "end": 27.365
+ },
+ {
+  "text": "By",
+  "start": 27.69,
+  "end": 27.876
+ },
+ {
+  "text": "law,",
+  "start": 27.957,
+  "end": 28.294
+ },
+ {
+  "text": "it",
+  "start": 28.317,
+  "end": 28.363
+ },
+ {
+  "text": "can",
+  "start": 28.398,
+  "end": 28.514
+ },
+ {
+  "text": "hit",
+  "start": 28.572,
+  "end": 28.723
+ },
+ {
+  "text": "twenty-one",
+  "start": 28.77,
+  "end": 29.199
+ },
+ {
+  "text": "fifty",
+  "start": 29.257,
+  "end": 29.629
+ },
+ {
+  "text": "—",
+  "start": 29.803,
+  "end": 29.942
+ },
+ {
+  "text": "in",
+  "start": 30.267,
+  "end": 30.43
+ },
+ {
+  "text": "cash.",
+  "start": 30.511,
+  "end": 31.127
+ },
+ {
+  "text": "Not",
+  "start": 31.452,
+  "end": 31.649
+ },
+ {
+  "text": "a",
+  "start": 31.684,
+  "end": 31.707
+ },
+ {
+  "text": "voucher.",
+  "start": 31.753,
+  "end": 32.253
+ },
+ {
+  "text": "Real",
+  "start": 32.531,
+  "end": 32.764
+ },
+ {
+  "text": "cash,",
+  "start": 32.833,
+  "end": 33.344
+ },
+ {
+  "text": "right",
+  "start": 33.553,
+  "end": 33.774
+ },
+ {
+  "text": "there.",
+  "start": 33.808,
+  "end": 34.215
+ },
+ {
+  "text": "He",
+  "start": 34.726,
+  "end": 34.842
+ },
+ {
+  "text": "signs",
+  "start": 34.888,
+  "end": 35.132
+ },
+ {
+  "text": "one",
+  "start": 35.19,
+  "end": 35.341
+ },
+ {
+  "text": "form...",
+  "start": 35.387,
+  "end": 35.84
+ },
+ {
+  "text": "and",
+  "start": 36.119,
+  "end": 36.27
+ },
+ {
+  "text": "walks",
+  "start": 36.339,
+  "end": 36.606
+ },
+ {
+  "text": "away",
+  "start": 36.653,
+  "end": 36.873
+ },
+ {
+  "text": "free.",
+  "start": 36.966,
+  "end": 37.408
+ },
+ {
+  "text": "Cash",
+  "start": 37.791,
+  "end": 38.116
+ },
+ {
+  "text": "in",
+  "start": 38.151,
+  "end": 38.209
+ },
+ {
+  "text": "his",
+  "start": 38.278,
+  "end": 38.371
+ },
+ {
+  "text": "pocket.",
+  "start": 38.429,
+  "end": 38.952
+ },
+ {
+  "text": "In",
+  "start": 39.277,
+  "end": 39.463
+ },
+ {
+  "text": "the",
+  "start": 39.521,
+  "end": 39.59
+ },
+ {
+  "text": "lounge.",
+  "start": 39.648,
+  "end": 40.194
+ },
+ {
+  "text": "His",
+  "start": 40.635,
+  "end": 40.821
+ },
+ {
+  "text": "seat?",
+  "start": 40.879,
+  "end": 41.39
+ },
+ {
+  "text": "Already",
+  "start": 41.668,
+  "end": 42.168
+ },
+ {
+  "text": "sold",
+  "start": 42.226,
+  "end": 42.458
+ },
+ {
+  "text": "to",
+  "start": 42.481,
+  "end": 42.528
+ },
+ {
+  "text": "someone",
+  "start": 42.586,
+  "end": 42.899
+ },
+ {
+  "text": "else.",
+  "start": 42.934,
+  "end": 43.352
+ },
+ {
+  "text": "Which",
+  "start": 43.677,
+  "end": 43.898
+ },
+ {
+  "text": "means",
+  "start": 43.944,
+  "end": 44.153
+ },
+ {
+  "text": "another",
+  "start": 44.199,
+  "end": 44.501
+ },
+ {
+  "text": "flight",
+  "start": 44.548,
+  "end": 44.78
+ },
+ {
+  "text": "is",
+  "start": 44.815,
+  "end": 44.873
+ },
+ {
+  "text": "getting",
+  "start": 44.908,
+  "end": 45.117
+ },
+ {
+  "text": "overbooked",
+  "start": 45.151,
+  "end": 45.662
+ },
+ {
+  "text": "—",
+  "start": 45.813,
+  "end": 45.929
+ },
+ {
+  "text": "right",
+  "start": 46.37,
+  "end": 46.637
+ },
+ {
+  "text": "now.",
+  "start": 46.719,
+  "end": 47.369
+ }
+]
