@@ -28,3 +28,5 @@ __pycache__/
 # Remotion
 ARC_Master/arc-remotion/node_modules/
 ARC_Master/arc-remotion/out/
+ARC_Master/studio/arc_studio.db
+ARC_Master/tools/videos_out.json
